@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684058066497",
+    "project_id": "plenary-agility-404014",
+    "storage_bucket": "plenary-agility-404014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684058066497:android:3d79da0adddbbf3e22d0c0",
+        "android_client_info": {
+          "package_name": "com.tharindu.file_upload_firebase_android_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1_dVABkx9nnWdfkHR1Q5Xx_61RyKR04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684058066497:android:00fe3631340130ce22d0c0",
+        "android_client_info": {
+          "package_name": "com.tharindu.real_timebustrackingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1_dVABkx9nnWdfkHR1Q5Xx_61RyKR04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
